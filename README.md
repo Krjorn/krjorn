@@ -1,6 +1,6 @@
 # Olá, sou Christopher Jesus da Silva!
 
-Estudante de Front-End. Atualmente buscando aprender e aperfeiçoar meus conhecimentos no campo para que, no futuro, possa iniciar uma carreira na área.
+Iniciante na área de Front-End, buscando me aprimorar e aberto para oportunidades de emprego.
 
 <div>
     <a href="https://www.linkedin.com/in/christopher-jesus-da-silva-49164b288/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -17,7 +17,8 @@ Estudante de Front-End. Atualmente buscando aprender e aperfeiçoar meus conheci
     <img loading="lazy" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
     <img loading="lazy" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
     <img loading="lazy" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
+    <img loading="lazy" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
+    <img loading="lazy" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" />
 </div>
 
 ##
